@@ -1,0 +1,65 @@
+The Inn:
+  encounters:
+    - informant
+    - negotiation
+    - skullduggery
+The Arena:
+  encounters:
+    - valor
+    - skullduggery
+    - preparation
+The Woods:
+  encounters:
+    - tracking
+    - valor
+    - skullduggery
+The Court:
+  encounters:
+    - favor
+    - valor
+    - negotiation
+The Village:
+  encounters:
+    - preparation
+    - tracking
+    - informant
+The Barracks:
+  encounters:
+    - valor
+    - favor
+    - negotiation
+The Waterfront:
+  encounters:
+    - informant
+    - skullduggery
+    - negotiation
+Merchant Quarter:
+  encounters:
+    - preparation
+    - informant
+    - favor
+Temple Quarter:
+  encounters:
+    - piety
+    - negotiation
+    - favor
+Noble Quarter:
+  encounters:
+    - favor
+    - valor
+    - skullduggery
+The Frontier:
+  encounters:
+    - tracking
+    - valor
+    - negotiation
+The Mountain:
+  encounters:
+    - tracking
+    - piety
+    - preparation
+The Library:
+  encounters:
+    - tracking
+    - informant
+    - favor
